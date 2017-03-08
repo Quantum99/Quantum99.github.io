@@ -1,7 +1,24 @@
-nav .grey-navbar{
-	background-color: #E9E9E9;
+
+.barry{
+	background-color: #d32f2f;
+	font-family: "Montserrat",sans-serif;
 }
 
-nav .blue-navbar{
-	background-color: #3299BB; 
+.inny{
+	background-color: #d32f2f;
+	font-family: "Montserrat",sans-serif;
+}
+
+.intro{
+	color: white;
+}
+
+.words{
+	*background-color: #F2D7D7;
+	font-family: "Montserrat",sans-serif;
+}
+
+.prof{
+	border-radius: 50%;
+	margin: 0 auto;
 }
